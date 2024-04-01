@@ -1,3 +1,5 @@
-#DocAppointment - Doctor Appointment App
+#DocAppointment
+
+Doctor Appointment App
 
 Hosted - https://docappointmet.netlify.app/
