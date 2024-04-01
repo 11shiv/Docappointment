@@ -8,7 +8,7 @@ Hosted - https://docappointmet.netlify.app/
 
 # Features :
 
- ## Dynamic Homepage: Conveniently gathers essential information on a single page.
+ #^ Dynamic Homepage: Conveniently gathers essential information on a single page.
  ## Easy Appointment Setup: Seamlessly schedule appointments with doctors, featuring selectable available dates and time ranges.
  ## Dynamic Appointment Management: Flexible time and date range selection for appointments.
  ## Doctor Selection: Patients can choose their preferred doctor for appointments.
