@@ -2,7 +2,7 @@
 
 The docappointmet System facilitates patients in scheduling appointments with preferred doctors or Emergency Appointments set up via an online platform. Developed using the React, Nodejs, and Prisma stack, it offers a professional website with dynamic functionalities. Key features include dynamic home, Email Notification, Filtering doctors, Setting up appointments and patients/doctors dashboards, secure user login with validation mechanisms, appointment scheduling with access to doctor details, patient appointment management, doctor selection, and overall industries level code splitting followed.
 
-Hosted - [DocAppointment]([[https://doctoron.netlify.app/])
+Hosted - [DocAppointment]([https://doctoron.netlify.app/])
 
 
 
